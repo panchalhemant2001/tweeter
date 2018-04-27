@@ -19,6 +19,7 @@ This repository is the starter code for the project: Students will fork and clon
 - chance
 - md5
 - mongodb
+- sass
 
 
 ## Screenshots
