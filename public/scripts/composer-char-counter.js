@@ -1,5 +1,6 @@
 $(document).ready(function() {
 
+  //Event handler that counts and updates the tweet text counter
   $('.new-tweet textarea').keyup(function() {
     var max = 140;
     var txtLen = $(this).val().length;
@@ -15,13 +16,11 @@ $(document).ready(function() {
   });
 
 
-
   //function to toggle slide compose tweet area
   $('#nav-bar #btnCompose').on('click', (event) => {
     $(".new-tweet").slideToggle("fast");
     $("#text").focus();
   });
-
 
 });
 
