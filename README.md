@@ -23,8 +23,8 @@ This repository is the starter code for the project: Students will fork and clon
 
 ## Screenshots
 
-![Screenshot Description](URL)
-![Screenshot Description](URL)
-![Screenshot Description](URL)
-![Screenshot Description](URL)
-![Screenshot Description](URL)
+![First Look of An Application](https://github.com/panchalhemant2001/tweeter/blob/master/docs/1_IntroScreen.png?raw=true)
+![Adding New Tweet](https://github.com/panchalhemant2001/tweeter/blob/master/docs/2_AddNewTweetCharCount.png?raw=true)
+![After New Tweet](https://github.com/panchalhemant2001/tweeter/blob/master/docs/3_NewTweetAdded.png?raw=true)
+![Compose Text (Toggle Slide Animation)](https://github.com/panchalhemant2001/tweeter/blob/master/docs/4_ComposeToggleSlide.png?raw=true)
+![Tweet Updated in MongoDB](https://github.com/panchalhemant2001/tweeter/blob/master/docs/5_RecordUpdatedInMongoDB.png?raw=true)
