@@ -19,3 +19,12 @@ This repository is the starter code for the project: Students will fork and clon
 - chance
 - md5
 - mongodb
+
+
+## Screenshots
+
+![Screenshot Description](URL)
+![Screenshot Description](URL)
+![Screenshot Description](URL)
+![Screenshot Description](URL)
+![Screenshot Description](URL)
