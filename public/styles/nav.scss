@@ -1,9 +1,12 @@
-#nav-bar .logo, #nav-bar {
+%navcommon {
   height: 80px;
 }
 
+
 #nav-bar {
+  @extend %navcommon;
   position: fixed;
+
   width: 100%;
   top: 0px;
   background-color: #00a087;
@@ -16,11 +19,13 @@
 }
 
 #nav-bar .logo {
+  @extend %navcommon;
   width: 80px;
   padding-right: 10px;
   display: inline-block;
   vertical-align: middle;
 }
+
 
 #nav-bar .header {
   font-size: 200%;
@@ -39,6 +44,7 @@
   border-style: inset;
   color: #00a087;
 }
+
 
 #nav-bar #btnCompose:hover {
   background-color: #ffe;
